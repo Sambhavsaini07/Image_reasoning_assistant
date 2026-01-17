@@ -1,0 +1,15 @@
+{
+  "image_quality_score": 1.0,
+  "issues_detected": [],
+  "detected_objects": [
+    "bicycle",
+    "dog"
+  ],
+  "text_detected": [
+    "fo ype Ei . = ENS",
+    "AOAC ALS AI Seance"
+  ],
+  "llm_reasoning_summary": "",
+  "final_verdict": "",
+  "confidence": 1.0
+}

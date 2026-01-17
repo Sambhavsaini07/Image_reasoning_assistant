@@ -1,0 +1,13 @@
+{
+  "image_quality_score": 0.8,
+  "issues_detected": [
+    "overexposed"
+  ],
+  "detected_objects": [
+    "person"
+  ],
+  "text_detected": [],
+  "llm_reasoning_summary": "Based on the provided image signals, the image quality score is 0.8 and issues detected include overexposure. Detected objects include a person.",
+  "final_verdict": "Image quality is acceptable, but overexposure is detected.",
+  "confidence": 0.9
+}
