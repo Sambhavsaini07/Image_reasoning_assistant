@@ -1,4 +1,4 @@
-# Image-Aware Reasoning Assistant
+# Image-Reasoning Assistant
 
 Image-Aware Reasoning Assistant is a lightweight multimodal system that evaluates image quality and professional suitability by combining computer vision feature extraction with LLM-based reasoning. The focus is on explainability and pre-LLM intelligence.
 
